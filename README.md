@@ -1,6 +1,6 @@
 ## Introduction
 
-[IP Address Finder](https://ip-searcher-eight.vercel.app) is a web app that allows you to search for an IP Address and see its location on Google Maps. It also displays the location, country, and ISP.
+[IP Address Searcher](https://ip-searcher-eight.vercel.app) is a web app that allows you to search for an IP Address and see its location on Google Maps. It also displays the location, country, and ISP.
 
 ## Usage
 
